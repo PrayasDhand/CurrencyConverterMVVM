@@ -11,7 +11,7 @@ interface CurrencyApi {
 
         companion object{
             const val BASE_URL = "https://api.freecurrencyapi.com/"
-            const val API_KEY = "fca_live_hbLOYtzO4UOYCK3JQnxQdvQgCU3eIJa6DX5nPum5"
+            const val API_KEY = "YOUR API KEY"
 
         }
     }
